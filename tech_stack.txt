@@ -1,0 +1,20 @@
+Refer to 'tools_and_usage.txt' for full breakdown of all tools and their reasons for use.
+
+Tech Stack (Initial Phase)
+
+Programming Languages:
+- Python 3.11
+- JavaScript (React)
+
+Frameworks / Libraries:
+- FastAPI, LangChain, OpenAI API
+- React, TailwindCSS
+
+Tools:
+- VS Code
+- Git & GitHub
+- Postman (API Testing)
+- Conda / Virtualenv (for environment)
+
+Cloud Platforms:
+- Render / Vercel (for deployment)

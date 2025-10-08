@@ -1,0 +1,19 @@
+# 🧾 Project Progress Tracker
+
+Date: [YYYY-MM-DD]
+Phase: [e.g., Setup, Project 1, Testing, etc.]
+
+✅ Completed:
+- [List tasks you finished today]
+
+⚙️ In Progress:
+- [Current tasks or experiments]
+
+🧠 Next Goals:
+- [Tomorrow’s or next session’s target]
+
+🕒 Time Spent:
+- [Hours or session duration]
+
+🧩 Notes:
+- [Errors, insights, challenges]

@@ -1,0 +1,30 @@
+The conversation on gpt is in Milestone Project renamed folder.
+
+
+🗓️ Day 1 - Project Kickoff Log
+Date: [10/07/2025 7:36 pm]
+
+✅ Completed:
+- Created project folder named "AI ML Milestone Project"
+- Created docs/, code/, and assets/ folders
+- Initialized main documentation files
+- Decided to use ChatGPT as AI Project Manager
+
+🎯 Next Steps:
+- Fill in project_plan.md with long-term goals
+- Define tech stack (Python, Node, etc.)
+- Initialize Git repository
+
+🧠 Reflection:
+Today marks the foundation of my AI/ML project journey.
+My goal is to create 3 milestone projects to showcase on GitHub and portfolio:
+1. AI Assistant (RAG-based)
+2. Computer Vision Object Tracker
+3. Smart Resume Evaluator
+
+Day 1 ending:
+🗓️ Day 1 Reflection
+I officially began my AI/ML Milestone Project journey. 
+Created all documentation and structure for long-term tracking.
+Learned about the importance of tool organization and project discipline.
+Tomorrow, I’ll move to environment setup and tool installation.

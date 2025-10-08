@@ -1,0 +1,53 @@
+⚙️ 1. Core Development Tools
+
+| Tool              | Purpose                                  | Why We Use It                                                                                                               |
+| ----------------- | ---------------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| **VS Code**       | Integrated Development Environment (IDE) | For writing and running Python + JavaScript code in one place. Has extensions for FastAPI, LangChain, TailwindCSS, and Git. |
+| **Python 3.11+**  | Backend / AI Logic Language              | Needed for building AI models, APIs, and connecting LangChain, OpenAI, and FastAPI.                                         |
+| **Node.js + npm** | Frontend Development                     | Used to build React-based UIs for your AI apps. npm manages frontend packages like Tailwind and Axios.                      |
+| **Git**           | Version Control                          | To track changes in code, manage versions, and collaborate (even with yourself).                                            |
+| **GitHub**        | Cloud Repository                         | For storing and publishing your projects — portfolio-ready and accessible to recruiters.                                    |
+
+🧱 2. AI & Machine Learning Libraries
+| Library / Platform       | Purpose                     | Why We Use It                                                  |
+| ------------------------ | --------------------------- | -------------------------------------------------------------- |
+| **LangChain**            | LLM Orchestration Framework | To connect AI models (like GPT) with tools, memory, and logic. |
+| **OpenAI API**           | Access to GPT Models        | To integrate advanced text understanding and generation.       |
+| **ChromaDB / Pinecone**  | Vector Database             | For storing and retrieving embeddings (used in RAG systems).   |
+| **SentenceTransformers** | Embedding Model             | Converts text into vectors for semantic search.                |
+| **FastAPI**              | Backend Framework           | Builds and deploys fast APIs to connect frontend + AI logic.   |
+| **Uvicorn**              | ASGI Server                 | Runs FastAPI apps locally and in production.                   |
+
+🧮 3. Data & Analysis Tools
+| Tool                            | Purpose          | Why We Use It                                                                              |
+| ------------------------------- | ---------------- | ------------------------------------------------------------------------------------------ |
+| **Microsoft Excel**             | Dataset handling | For quick inspection and visualization of small datasets.                                  |
+| **Microsoft Word**              | Documentation    | To format reports or export professional project documents (like a final project summary). |
+| **Jupyter Notebook (optional)** | Data exploration | To test and visualize AI model outputs during experiments.                                 |
+
+🔍 4. Testing & API Interaction Tools
+| Tool                      | Purpose                   | Why We Use It                                                  |
+| ------------------------- | ------------------------- | -------------------------------------------------------------- |
+| **Postman**               | API testing and debugging | To send test requests to FastAPI endpoints and verify outputs. |
+| **Browser (Chrome/Edge)** | Frontend testing          | For running React web apps during local testing.               |
+
+🧰 5. Project Management & Planning Tools
+| Tool                                | Purpose                        | Why We Use It                                                                         |
+| ----------------------------------- | ------------------------------ | ------------------------------------------------------------------------------------- |
+| **Trello**                          | Task & progress tracking       | For visual Kanban tracking of daily goals (like a company sprint board).              |
+| **Notion / Google Docs (optional)** | Knowledge base                 | For extended documentation or notes if needed online.                                 |
+| **ChatGPT**                         | AI Assistant / Project Manager | To act as your PM (me 😎), mentor, and coding/debugging guide throughout the project. |
+
+💾 6. Database & Storage Tools
+| Tool                                    | Purpose                   | Why We Use It                                                                          |
+| --------------------------------------- | ------------------------- | -------------------------------------------------------------------------------------- |
+| **SQLite / PostgreSQL (optional)**      | Data persistence          | To store user queries, logs, or analytics for your apps.                               |
+| **SSMS (SQL Server Management Studio)** | Optional database testing | You can use this if you want to connect with relational databases for future projects. |
+| **Cloudinary / GitHub Assets**          | Asset hosting             | To store images or videos generated by your projects (optional).                       |
+
+☁️ 7. Deployment & Hosting
+| Platform                      | Purpose                  | Why We Use It                                                       |
+| ----------------------------- | ------------------------ | ------------------------------------------------------------------- |
+| **Render / Railway / Heroku** | Backend hosting          | To host FastAPI apps easily (RAG systems, AI assistants).           |
+| **Vercel / Netlify**          | Frontend hosting         | For React-based websites — free and stable.                         |
+| **GitHub Pages**              | Simple portfolio hosting | You can use it to display your projects as a static portfolio page. |
