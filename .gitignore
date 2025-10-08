@@ -1,0 +1,26 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Env / secrets
+.env
+*.env
+
+# Node (in case you create React later)
+node_modules/
+dist/
+build/
+
+# OS / IDE
+.DS_Store
+.vscode/
+.idea/
+
+# Logs & misc
+*.log
+
+# any temp test app you created
+test-app/
